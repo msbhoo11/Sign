@@ -1,0 +1,46 @@
+html,
+body {
+  height: 100%;
+
+}
+
+body {
+  align-items: center;
+  justify-content: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #c3e4e9;
+}
+
+.container{
+
+  padding:100px;
+  background: url("images/bg-image.jpg");
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .checkbox {
+  font-weight: 400;
+}
+.form-signin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.logo{
+    border-radius: 100%;
+}
+.textbox{
+    margin-bottom: 5%;
+}
+.buttonbox{
+    margin-top: 5%;
+}
